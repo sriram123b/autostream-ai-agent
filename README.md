@@ -105,7 +105,7 @@ User → WhatsApp → Webhook → Agent → Response → WhatsApp
 ---
 
 ## 🎥 Demo
-
+https://www.loom.com/share/75938b6f6aac402c80c257143999d31e
 Demonstrates:
 
 * Pricing Q&A (RAG)
